@@ -4,7 +4,7 @@
 <br>• 👩🏻‍💻 Developer | 📸 Photographer | 💃🏻 Marketer | 😋 Foodie 
 <br>• 🗺️ Adventurer | 🎶 Music lover | 🚴 Cyclist
 
-<br>✨Explore my projects here:  [My Portfolio](https://evefu0510.github.io/MyPortfolio/) ✨ 
+<br>✨Explore all my projects here:  [My Portfolio](https://evefu0510.github.io/MyPortfolio/) ✨ 
 
 <br>🚀Connect with me for a creative coding journey! 
 
