@@ -5,5 +5,9 @@
 
 <br>✨Explore all my projects here:  [My Portfolio](https://evefu0510.github.io/MyPortfolio/) ✨ 
 
-
-<br>Languages and Tools: SQL, Power BI (PL-300), Tableau, DAX, M, SQL, Advanced Excel (Pivot Tables, VLOOKUP, Power Query), Python (Pandas, NumPy), R, Azure Data Fundamentals (DP-900), ETL/ELT Processes, SharePoint, PowerApps, Dataverse, Power Automate
+<br>• Data Analytics: Power BI (PL-300), Tableau, DAX, M, SQL Server, MySQL, Advanced Excel (Pivot Tables, VLOOKUP, Power Query), Python (Pandas, NumPy), R, Azure Data Fundamentals (DP-900)
+<br>• Data Engineering: SSIS, SSRS, ETL/ELT Processes, Data Lake, Data Warehouse, Azure Synapse Analytics, Databricks
+<br>• Data Administration: Database Maintenance, Backup & Recovery, Performance Monitoring, Security Management
+<br>• Platforms & Systems: ERP System, SharePoint, PowerApps, Dataverse, Power Automate
+<br>• Project & Workflows: PMP (35h), Agile/Scrum, Workflow Optimization, Microsoft 365
+Other: Bilingual (English/Mandarin), Strong communication & stakeholder management
