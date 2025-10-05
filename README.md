@@ -6,5 +6,4 @@
 <br>✨Explore all my projects here:  [My Portfolio](https://evefu0510.github.io/MyPortfolio/) ✨ 
 
 
-<br>Languages and Tools: <br>
-[![My Skills](https://skillicons.dev/icons?i=sql,python,powerbi,tableau,ssis)](https://skillicons.dev/icons?)
+<br>Languages and Tools: SQL, Power BI (PL-300), Tableau, DAX, M, SQL, Advanced Excel (Pivot Tables, VLOOKUP, Power Query), Python (Pandas, NumPy), R, Azure Data Fundamentals (DP-900), ETL/ELT Processes, SharePoint, PowerApps, Dataverse, Power Automate
